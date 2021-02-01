@@ -1,11 +1,11 @@
-🔭 I’m currently working on Python,Javascript and some PHP
+### Hello, I am Wilmar Garcia 
+🔭 I’m currently working on Python,Javascript and some PHP :computer: :floppy_disk:
 
 <!--
 **wcgarcia5/wcgarcia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
