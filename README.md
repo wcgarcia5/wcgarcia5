@@ -1,5 +1,5 @@
 ### Hello, I am Wilmar Garcia 
-🔭 I’m currently working on Python,Javascript and some PHP :computer: :floppy_disk:
+🔭 I’m currently working on Python,Google Chrome Extensions, Javascript and some PHP :computer: :floppy_disk:
 
 <!--
 **wcgarcia5/wcgarcia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
